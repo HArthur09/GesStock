@@ -1,0 +1,11 @@
+C:\Users\admin\Documents\Visual Studio 2010\Projects\connexion a excel\connexion a excel\obj\x86\Debug\connexion a excel.vbproj.ResolveComReference.cache
+C:\Users\admin\Documents\Visual Studio 2010\Projects\connexion a excel\connexion a excel\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\connexion a excel\connexion a excel\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\connexion a excel\connexion a excel\obj\x86\Debug\connexion a excel.vbproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2010\Projects\connexion a excel\connexion a excel\bin\Debug\connexion a excel.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\connexion a excel\connexion a excel\bin\Debug\connexion a excel.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\connexion a excel\connexion a excel\bin\Debug\connexion a excel.xml
+C:\Users\admin\Documents\Visual Studio 2010\Projects\connexion a excel\connexion a excel\obj\x86\Debug\connexion a excel.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\connexion a excel\connexion a excel\obj\x86\Debug\connexion a excel.xml
+C:\Users\admin\Documents\Visual Studio 2010\Projects\connexion a excel\connexion a excel\obj\x86\Debug\connexion a excel.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\connexion a excel\connexion a excel\obj\x86\Debug\WindowsApplication1.Form2.resources
